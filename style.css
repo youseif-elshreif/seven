@@ -8,14 +8,14 @@ body {
 
 div {
     top: 50%;
-    left: 50%;
+    left: 37%;
     position: absolute;
     transform: translate(-50%, -50%);
     height: 508px;
     width: 962.29px;
     text-transform: uppercase;
     color: white;
-    font-size: 13em;
+    font-size: 11em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
